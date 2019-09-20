@@ -8,10 +8,13 @@
 
 ## 内容框架
 ### AWS IoT 基本功能
+
+#### [Lab 00. 使用Cloud Formation生成IoT设备](docs/00_device_create.md)
+- 使用EC2模拟IoT设备
+
 #### [Lab 01. 车辆接入IoT并上传数据](docs/01_connect_publish.md)
 - IoT 事物/证书/策略的创建
 - MQTT Publish/Subscribe
-
 
 #### [Lab 02. 数据在云端展现](docs/02_data_visualize.md)
 - IoT Rule Engine -> ElasticSearch -> Kibana
