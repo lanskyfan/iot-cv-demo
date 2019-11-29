@@ -21,6 +21,17 @@ Another great advantage using Cloud9 is that Cloud9 can have direct terminal acc
 
 (A step by step implementation with screenshots.)
 
+1. Install Cloud9 with EC2 Instances.
+
+Before we started, we read the instructions of AWS Cloud9 carefully. Then, we logged in to the AWS Console and selected Cloud9. As shown in Figure(?), we created the environment with name IoT Project. We created a new EC2 instance with Amazon Linux system to host our Cloud9 IDE as shown in Figure(?). Finally, we reviewed our configuration (in Figure(?)).
+
+2. Connect to Cloud9 with browser.
+
+In this step, we tested our connection to our Cloud9 IDE using browser as shown in Figure(?). We tested the connection speed of Cloud9 as well as the smooth experience of the integrated remote terminal.
+
+3. Share our Cloud9 with all teammates.
+
+In order to collaborate with our teammates, we shared our Cloud9 Platform. Since all our teammates were in the same AWS Account with different IAM, we shared our Cloud9 as shonw in Figure(?). Finally, all our teammates could access our Cloud9 and collaborated with it.
 
 
 ### Result
